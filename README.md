@@ -8,3 +8,5 @@ I learnt this following thing from this project
 * How to add Material icons
 * How to style Text widgets
 * How to read and use Flutter Documentation
+
+(https://github.com/chitraarasu/My-Card/blob/main/images/output.jpg)
