@@ -8,7 +8,7 @@ I learnt this following thing from this project
 * How to add Material icons
 * How to style Text widgets
 * How to read and use Flutter Documentation
+<!-- 
+![OUTPUT](https://github.com/chitraarasu/My-Card/blob/main/images/output.jpg) -->
 
-![OUTPUT](https://github.com/chitraarasu/My-Card/blob/main/images/output.jpg)
-
-<img src="https://github.com/chitraarasu/My-Card/blob/main/images/output.jpg" width="48">
+<img src="https://github.com/chitraarasu/My-Card/blob/main/images/output.jpg" width="250">
