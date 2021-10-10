@@ -9,4 +9,4 @@ I learnt this following thing from this project
 * How to style Text widgets
 * How to read and use Flutter Documentation
 
-(https://github.com/chitraarasu/My-Card/blob/main/images/output.jpg)
+![OUTPUT](https://github.com/chitraarasu/My-Card/blob/main/images/output.jpg)
